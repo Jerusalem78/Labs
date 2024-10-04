@@ -22,3 +22,4 @@ def writing(text, method='w'):
     with open('user_input.txt', method, encoding='UTF-8') as file:
         file.write(text)
 
+
