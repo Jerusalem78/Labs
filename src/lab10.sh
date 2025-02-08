@@ -1,7 +1,6 @@
 git clone https://github.com/Jerusalem78/Labs
 # git remote add https://github.com/Jerusalem78/Labs
 cd \Labs
-git push origin main
 git checkout -b dev
 git push origin dev
 git push origin --delete dev
