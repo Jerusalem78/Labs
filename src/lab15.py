@@ -112,4 +112,4 @@ async def remove_favorite(
 
 
 if __name__ == '__main__':
-    uvicorn.run("lab15:app", reload=True)
+    print(Query())
